@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+sandeepsandeep36825@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 7760811877
 
 Birthday
-June 23, 1982
+april 12, 2003
 
 Location
-Sacramento, California, USA
+Dasarenahalli, karnataka, india
 
 # navbar
 
